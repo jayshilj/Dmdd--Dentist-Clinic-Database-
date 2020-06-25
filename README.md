@@ -1,6 +1,9 @@
 # Dmdd--Dentist-Clinic-Database-
 Dmdd project 2019
 
+# ER Diagram
+![](DMDD-ER-Diagram.png)
+
 # INTRODUCTION
 
 This document is being written in context with the business requirements of the dental office database
